@@ -1,5 +1,5 @@
 # Encryption-Decryption-Quantum-Computing-Project
-This is capstone project for my Quantum Computing by Qubit by Qubit. In this project I made a web-application where I can encrypt a message a decrypt a message with Qkd. It's a secure platform for future Quantum Cryptography
+This is capstone project for my Quantum Computing by Qubit by Qubit. In this project I made a web-application where I can encrypt and decrypt a message with Qkd. It's a secure platform for future Quantum Cryptography
 
 ![bd1d649021654f8f9a9059e02a7c1278](https://github.com/wahidpanda/Encryption-Decryption-Quantum-Computing-Project/assets/110899864/308ffc4d-a941-40a4-a880-7c1c72c727b9)
 
